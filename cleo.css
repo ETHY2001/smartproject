@@ -1,0 +1,11 @@
+body { background-color: pink ;}
+button { background-color : grey ;
+         padding:10px;
+         margin:10px;
+       }
+select{background-color:white; 
+       radias:10px;
+       padding:5px;
+       margin:40px;
+       align:center;
+     }
